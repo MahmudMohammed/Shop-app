@@ -7,7 +7,7 @@ The main features of the app include browsing products, adding products to a car
 ## Installation
 
 ```bash
- npm install
+$ npm install
 ```
 
 ## Running the app
